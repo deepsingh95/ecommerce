@@ -1,0 +1,7 @@
+Please Follow the steps before Run the Project
+
+step 1 - ( npm ci ) for installing node module and dependency.
+step 2 - ( npm start ) for run the project.
+
+
+Note: I am provideing you development directory. this directory does not contain build directory(in build directory all files are minifed so there is difficulty to review the code). 
